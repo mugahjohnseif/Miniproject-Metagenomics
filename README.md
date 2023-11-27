@@ -1,1 +1,1 @@
-# Miniproject
+# GREATLIFE Bioinformatics  Miniproject
