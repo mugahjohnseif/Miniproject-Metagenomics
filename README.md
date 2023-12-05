@@ -20,7 +20,8 @@ As part of the AMR Bioinformatics trainning at KEMRI; CMR ,this group has been  
 
 **ABSTRACT SUMMARY** : 
 
-The human gut houses a complex microbial ecosystem referred to as the microbiome, which includes prokaryotic, eukaryotic and viral components. While the bacterial components of the microbiome have received considerable attention, comparatively little is known about the composition and physiological significance of human-gut associated bacteriophage populations, otherwise known as phageomes. 
+The human gut houses a complex microbial ecosystem referred to as the microbiome, which includes prokaryotic, eukaryotic and viral components. While the bacterial components of the microbiome have received considerable attention, comparatively little is known about the composition and physiological significance of human-gut associated bacteriophage populations, otherwise known as phageomes.
+
 Although, most studies in the recent years have focused on the gut microbiome in rural pre-industrialized societies such as hunter-gatherer and other geographically diverse populations, little is known about microbial variability and it's implication for health and disease in other underrepresented populations in South America, Africa, and regions of Asia, particularly India, where there is scarcity of microbiome data in diarrheal and other populations.
 In India, there is tremendous opportunity to study highly diverse communities with varied geographic distribution, dietary habits and socioeconomic stratification. The Central Indian gut microbiome remains grossly understudied. We seek to investigate the burden of antimicrobial resistance and diarrheal diseases,particularly *Clostridoides difficile*, in rural-agricultural and urban populations in Central India , where there is widespread unregulated antibiotic use. 
 
