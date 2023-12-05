@@ -1,5 +1,5 @@
 ## AMR BIOINFORMATICS TRAINING MINIPROJECT
-As part of the AMR Bioinformatics trainning at KEMRI; CMR ,this group has been  working on a mini-project to reproduce an assingned published Metagenomics paper.The details can be found here.
+As part of the AMR Bioinformatics training at KEMRI; CMR ,this group has been  working on a mini-project to reproduce an assingned published Metagenomics paper.The details can be found here.
 
 
 ### Group Members
