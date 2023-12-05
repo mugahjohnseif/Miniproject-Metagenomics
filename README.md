@@ -14,7 +14,7 @@ As part of the AMR Bioinformatics trainning at KEMRI; CMR ,this group has been  
 
 
 ### Overview Of the Metagenomics paper
-TITLE : # Metagenomics reveals impact of geography and acute diarrheal disease on Central Indian human gut microbiome
+TITLE : **Metagenomics reveals impact of geography and acute diarrheal disease on Central Indian human gut microbiome**
 
 AUTHORS : **Tanya M Monaghan, Tim J Sloan, Stephen R Stockdale, Adam M Blanchard, Richard D Emes , Mark Wilcox, Rima Biswas , Rupam Nashine , Sonali Manke, Jinal Gandhi, Pratishtha Jain, Shrejal Bhotmange, Shrikant Ambalka, Ashish Satav, Lorraine A Draper, Colin Hill, Rajpal Singh Kashyap**
 
