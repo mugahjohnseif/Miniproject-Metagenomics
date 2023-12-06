@@ -36,7 +36,7 @@ This study utilized shotgun metagenomics to comprehensively characterize the bac
      - Quality check using **Fastqc** and **Multiqc**
      - Trimming of the reads using **Trimmomatic**
      - Quality check after trimming using **Fastqc** and **Multiqc**
--  Taxonomic assuingment using **Metaphlan**
+-  Taxonomic assignment using **Metaphlan**
 
 ### A summary report of the workflow is documented on the [Wiki page] with the following sections;
 1.
