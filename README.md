@@ -1,5 +1,5 @@
 ## AMR BIOINFORMATICS TRAINING MINIPROJECT
-As part of the AMR Bioinformatics training at KEMRI; CMR ,this group has been  working on a mini-project to reproduce an assingned published Metagenomics paper.The details can be found here.
+As part of the AMR Bioinformatics training at KEMRI; CMR ,this group has been  working on a mini-project to reproduce an assigned published Metagenomics paper.The details can be found here.
 
 
 ### Group Members
@@ -29,12 +29,12 @@ This study utilized shotgun metagenomics to comprehensively characterize the bac
 
 ### A Summary of the Steps followed in our miniproject;
 - Acquisition of the raw data
-     - We made a text file containing the specific accession numbers.It can be found [here]()
+     - We made a text file containing the specific accession numbers.It can be found [here](https://github.com/LatifahBenta/Miniproject-Metagenomics/blob/main/Raw%20Data/SRA_accessions.txt)
      - **prefetch** -To download data from the SRA database.
      - **fasterq-dump**-To convert SRA format data into standard FASTQ format.
 - Pre-processing of the raw data
      - Quality check using **Fastqc** and **Multiqc**
      - Trimming of the reads using **Trimmomatic**
-     - Quality check after trimming using **Multiqc**
+     - Quality check after trimming using **Fastqc** and **Multiqc**
 -  Taxonomic assuingment using **Metaphlan**
 -  
