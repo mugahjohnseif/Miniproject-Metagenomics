@@ -36,7 +36,17 @@ This study utilized shotgun metagenomics to comprehensively characterize the bac
      - Quality check using **Fastqc** and **Multiqc**
      - Trimming of the reads using **Trimmomatic**
      - Quality check after trimming using **Fastqc** and **Multiqc**
--  Taxonomic assignment using **Metaphlan**
+-  Read alignment and Taxonomic assignment using **kraken2** 
+     - Align trimmed reads to a reference database to asign taxonomic labels
+     - Use **kraken2** for taxonomic profiling
+     - Visualize using **Krona**
+-  Assembly using **SPAdes**
+     - Assemble reads into contigs
+- Functional annotation using **Prokka**
+     - Annotate genes and predict protein function
+- Antimicrobial Resistance gene Identification
+     - Search for AMR genes in the anotated data
+- Data visualization using **Krona** 
 
 ### A summary report of the workflow is documented on the [Wiki page] with the following sections;
 1.
